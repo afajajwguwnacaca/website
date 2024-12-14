@@ -1,4 +1,5 @@
----
+---sudo bettercap -eval "ui on"
+
 title: "Web UI"
 weight: 1
 draft: false
